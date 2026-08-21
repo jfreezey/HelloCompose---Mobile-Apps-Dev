@@ -19,6 +19,7 @@ import androidx.compose.ui.res.painterResource
 import androidx.compose.ui.tooling.preview.Preview
 import androidx.compose.ui.unit.dp
 import com.example.hellocompose.ui.theme.HelloComposeTheme
+import androidx.compose.ui.layout.ContentScale
 
 class MainActivity : ComponentActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
@@ -41,14 +42,16 @@ fun Greeting() {
         Column(
             modifier = Modifier
                 .fillMaxSize()
-                .padding(24.dp),
-            verticalArrangement = Arrangement.Center,
+                .padding(24.dp)
+                .padding(top = 70.dp),
+            verticalArrangement = Arrangement.Top,
             horizontalAlignment = Alignment.CenterHorizontally
         ) {
 
             Image(
                 painter = painterResource(id = R.drawable.foto_profil),
                 contentDescription = "Foto profil",
+                contentScale = ContentScale.Crop,
                 modifier = Modifier
                     .size(120.dp)
                     .clip(CircleShape)
