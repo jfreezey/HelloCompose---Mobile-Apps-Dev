@@ -1,0 +1,56 @@
+com.example.ch06.app-customview-poolingcontainer-1.0.0-0 C:\Users\Jennifer\.gradle\caches\transforms-4\049d619328b6b44ae33c6606e5b63451\transformed\customview-poolingcontainer-1.0.0\res
+com.example.ch06.app-lifecycle-viewmodel-ktx-2.8.7-1 C:\Users\Jennifer\.gradle\caches\transforms-4\104479c1faa1df6686d5f08b7d57b068\transformed\lifecycle-viewmodel-ktx-2.8.7\res
+com.example.ch06.app-activity-ktx-1.9.0-2 C:\Users\Jennifer\.gradle\caches\transforms-4\11261a66f3be1edf3a0f971f438cd1dc\transformed\activity-ktx-1.9.0\res
+com.example.ch06.app-animation-release-3 C:\Users\Jennifer\.gradle\caches\transforms-4\1c51a9ba923849179a640a0de7e3a1e7\transformed\animation-release\res
+com.example.ch06.app-activity-compose-1.9.0-4 C:\Users\Jennifer\.gradle\caches\transforms-4\2183260e0f0798517b8d7d54fdb44ebb\transformed\activity-compose-1.9.0\res
+com.example.ch06.app-foundation-release-5 C:\Users\Jennifer\.gradle\caches\transforms-4\23a69e8c38661eeaf6edd2af7b747aae\transformed\foundation-release\res
+com.example.ch06.app-navigation-common-2.8.5-6 C:\Users\Jennifer\.gradle\caches\transforms-4\271e0b1f9fba4d7f48e6481af810be5e\transformed\navigation-common-2.8.5\res
+com.example.ch06.app-navigation-runtime-2.8.5-7 C:\Users\Jennifer\.gradle\caches\transforms-4\28ea7c938279ce65440f0181032f4847\transformed\navigation-runtime-2.8.5\res
+com.example.ch06.app-lifecycle-viewmodel-release-8 C:\Users\Jennifer\.gradle\caches\transforms-4\2cb440806b1a5fe7834a532d08e2e3a1\transformed\lifecycle-viewmodel-release\res
+com.example.ch06.app-material-ripple-release-9 C:\Users\Jennifer\.gradle\caches\transforms-4\325920aa0ad2a4442b2ded7502c910df\transformed\material-ripple-release\res
+com.example.ch06.app-lifecycle-runtime-compose-release-10 C:\Users\Jennifer\.gradle\caches\transforms-4\344ec6a7f98844081597263ac2dbd18f\transformed\lifecycle-runtime-compose-release\res
+com.example.ch06.app-activity-1.9.0-11 C:\Users\Jennifer\.gradle\caches\transforms-4\360c75482fa3940cb80a95e0b5bb1ddd\transformed\activity-1.9.0\res
+com.example.ch06.app-startup-runtime-1.1.1-12 C:\Users\Jennifer\.gradle\caches\transforms-4\36a3d1d972a2231b2df8cd78083cecf6\transformed\startup-runtime-1.1.1\res
+com.example.ch06.app-lifecycle-viewmodel-savedstate-2.8.7-13 C:\Users\Jennifer\.gradle\caches\transforms-4\387c9d4b84470fb559b4d2ca2a132447\transformed\lifecycle-viewmodel-savedstate-2.8.7\res
+com.example.ch06.app-material3-release-14 C:\Users\Jennifer\.gradle\caches\transforms-4\39bb8f863e31d6ba38c981318232d8d5\transformed\material3-release\res
+com.example.ch06.app-ui-test-manifest-1.7.2-15 C:\Users\Jennifer\.gradle\caches\transforms-4\3d16cd4139acd2ef323baac28cd07419\transformed\ui-test-manifest-1.7.2\res
+com.example.ch06.app-navigation-runtime-ktx-2.8.5-16 C:\Users\Jennifer\.gradle\caches\transforms-4\4e9b2b6522a29af7ea18ca269c198eee\transformed\navigation-runtime-ktx-2.8.5\res
+com.example.ch06.app-lifecycle-viewmodel-compose-release-17 C:\Users\Jennifer\.gradle\caches\transforms-4\512692d5bdc810d30dbbb0c62cac8315\transformed\lifecycle-viewmodel-compose-release\res
+com.example.ch06.app-ui-release-18 C:\Users\Jennifer\.gradle\caches\transforms-4\59af3eba3bdb517fbbea4ba518cac673\transformed\ui-release\res
+com.example.ch06.app-profileinstaller-1.3.1-19 C:\Users\Jennifer\.gradle\caches\transforms-4\5ce187f7d6bcbb33a8ec1023b7a307d5\transformed\profileinstaller-1.3.1\res
+com.example.ch06.app-savedstate-1.2.1-20 C:\Users\Jennifer\.gradle\caches\transforms-4\6356e47e980dbcd6fe119d0a3ee9e7e4\transformed\savedstate-1.2.1\res
+com.example.ch06.app-emoji2-1.3.0-21 C:\Users\Jennifer\.gradle\caches\transforms-4\6aa4b3f348c47482fcf0f11142d97377\transformed\emoji2-1.3.0\res
+com.example.ch06.app-foundation-layout-release-22 C:\Users\Jennifer\.gradle\caches\transforms-4\6af5cb4eade430db42a2c01f6d4c8d92\transformed\foundation-layout-release\res
+com.example.ch06.app-navigation-compose-2.8.5-23 C:\Users\Jennifer\.gradle\caches\transforms-4\6dc81cb88dd3bc0a4c2d371260f5f4e2\transformed\navigation-compose-2.8.5\res
+com.example.ch06.app-ui-tooling-preview-release-24 C:\Users\Jennifer\.gradle\caches\transforms-4\6dd96b39618dce6b9901ff9858e32319\transformed\ui-tooling-preview-release\res
+com.example.ch06.app-material-icons-core-release-25 C:\Users\Jennifer\.gradle\caches\transforms-4\7439010a5cfcca98683e53745550119e\transformed\material-icons-core-release\res
+com.example.ch06.app-ui-tooling-release-26 C:\Users\Jennifer\.gradle\caches\transforms-4\879cce119770f933cd59c769ca6fd089\transformed\ui-tooling-release\res
+com.example.ch06.app-core-ktx-1.13.1-27 C:\Users\Jennifer\.gradle\caches\transforms-4\8eaea46a7895e715babc9cd28523529a\transformed\core-ktx-1.13.1\res
+com.example.ch06.app-lifecycle-runtime-ktx-release-28 C:\Users\Jennifer\.gradle\caches\transforms-4\91c850d2d16d42bf795253f70b068a57\transformed\lifecycle-runtime-ktx-release\res
+com.example.ch06.app-core-1.13.1-29 C:\Users\Jennifer\.gradle\caches\transforms-4\977f06a6b0b1cbe9a737a9134def6fd7\transformed\core-1.13.1\res
+com.example.ch06.app-material-icons-extended-release-30 C:\Users\Jennifer\.gradle\caches\transforms-4\9936cf36987786e3ce7a1483a8576f13\transformed\material-icons-extended-release\res
+com.example.ch06.app-runtime-saveable-release-31 C:\Users\Jennifer\.gradle\caches\transforms-4\9b223a78351de89cbb6edb9de3900e81\transformed\runtime-saveable-release\res
+com.example.ch06.app-ui-geometry-release-32 C:\Users\Jennifer\.gradle\caches\transforms-4\9f8b57f5e6a8bbd0e5be56e5ba2d857e\transformed\ui-geometry-release\res
+com.example.ch06.app-lifecycle-livedata-core-2.8.7-33 C:\Users\Jennifer\.gradle\caches\transforms-4\a86194d07718b639b339c81186438628\transformed\lifecycle-livedata-core-2.8.7\res
+com.example.ch06.app-savedstate-ktx-1.2.1-34 C:\Users\Jennifer\.gradle\caches\transforms-4\aa7aba65c4833c2fff0508be890ae1c7\transformed\savedstate-ktx-1.2.1\res
+com.example.ch06.app-graphics-path-1.0.1-35 C:\Users\Jennifer\.gradle\caches\transforms-4\b3043fd765ab0dea2fc94f493eee3add\transformed\graphics-path-1.0.1\res
+com.example.ch06.app-ui-graphics-release-36 C:\Users\Jennifer\.gradle\caches\transforms-4\ccf0fc7bf62660a9cdeae32d0b6e3351\transformed\ui-graphics-release\res
+com.example.ch06.app-lifecycle-process-2.8.7-37 C:\Users\Jennifer\.gradle\caches\transforms-4\d094e957260ef1729a3941d52e91f29a\transformed\lifecycle-process-2.8.7\res
+com.example.ch06.app-ui-text-release-38 C:\Users\Jennifer\.gradle\caches\transforms-4\eb9cd2f5f2425e83cc4e5a8255b6933a\transformed\ui-text-release\res
+com.example.ch06.app-annotation-experimental-1.4.1-39 C:\Users\Jennifer\.gradle\caches\transforms-4\ed365a66f104dbdc1d1037fa1bae4a46\transformed\annotation-experimental-1.4.1\res
+com.example.ch06.app-ui-unit-release-40 C:\Users\Jennifer\.gradle\caches\transforms-4\ed697f0fa57fba58dc44aef03fc3898c\transformed\ui-unit-release\res
+com.example.ch06.app-ui-tooling-data-release-41 C:\Users\Jennifer\.gradle\caches\transforms-4\ef9ee095a25116ccf00f39ddf5ffcfea\transformed\ui-tooling-data-release\res
+com.example.ch06.app-runtime-release-42 C:\Users\Jennifer\.gradle\caches\transforms-4\f21a4e088c76fd562a1b02aa8f33c5a4\transformed\runtime-release\res
+com.example.ch06.app-navigation-common-ktx-2.8.5-43 C:\Users\Jennifer\.gradle\caches\transforms-4\f278f08134d21d8696c25e7f8b5ba889\transformed\navigation-common-ktx-2.8.5\res
+com.example.ch06.app-lifecycle-runtime-release-44 C:\Users\Jennifer\.gradle\caches\transforms-4\f32ef59b15af158e1ad2757cdc2f7e09\transformed\lifecycle-runtime-release\res
+com.example.ch06.app-animation-core-release-45 C:\Users\Jennifer\.gradle\caches\transforms-4\f5c2fda4c6a6f12cedb9fecc93797187\transformed\animation-core-release\res
+com.example.ch06.app-material-release-46 C:\Users\Jennifer\.gradle\caches\transforms-4\f619ba5a98ba7baa1dd98dad8596aa33\transformed\material-release\res
+com.example.ch06.app-ui-util-release-47 C:\Users\Jennifer\.gradle\caches\transforms-4\f971592b444f9460c27d0f60973c774a\transformed\ui-util-release\res
+com.example.ch06.app-core-runtime-2.2.0-48 C:\Users\Jennifer\.gradle\caches\transforms-4\ff3f7c37ef22c714a0f402766fa0d22e\transformed\core-runtime-2.2.0\res
+com.example.ch06.app-pngs-49 C:\Users\Jennifer\Downloads\MATERI KULIAH\Semester 5\Mobile Apps Dev\Praktikum\ch06_starter\app\build\generated\res\pngs\debug
+com.example.ch06.app-resValues-50 C:\Users\Jennifer\Downloads\MATERI KULIAH\Semester 5\Mobile Apps Dev\Praktikum\ch06_starter\app\build\generated\res\resValues\debug
+com.example.ch06.app-packageDebugResources-51 C:\Users\Jennifer\Downloads\MATERI KULIAH\Semester 5\Mobile Apps Dev\Praktikum\ch06_starter\app\build\intermediates\incremental\debug\packageDebugResources\merged.dir
+com.example.ch06.app-packageDebugResources-52 C:\Users\Jennifer\Downloads\MATERI KULIAH\Semester 5\Mobile Apps Dev\Praktikum\ch06_starter\app\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
+com.example.ch06.app-debug-53 C:\Users\Jennifer\Downloads\MATERI KULIAH\Semester 5\Mobile Apps Dev\Praktikum\ch06_starter\app\build\intermediates\merged_res\debug\mergeDebugResources
+com.example.ch06.app-debug-54 C:\Users\Jennifer\Downloads\MATERI KULIAH\Semester 5\Mobile Apps Dev\Praktikum\ch06_starter\app\src\debug\res
+com.example.ch06.app-main-55 C:\Users\Jennifer\Downloads\MATERI KULIAH\Semester 5\Mobile Apps Dev\Praktikum\ch06_starter\app\src\main\res
