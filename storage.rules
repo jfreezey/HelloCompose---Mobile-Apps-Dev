@@ -1,0 +1,23 @@
+rules_version = '2';
+service firebase.storage {
+  match /b/{bucket}/o {
+
+    // Memastikan pengguna sudah terautentikasi dan mengakses folder miliknya sendiri
+    function isOwner(userId) {
+      return request.auth != null && request.auth.uid == userId;
+    }
+
+    // Restriksi akses foto profil pengguna
+    match /users/{userId}/profile.jpg {
+      // Pembacaan hanya diizinkan untuk pemilik foto profil
+      allow read: if isOwner(userId);
+
+      // Penulisan hanya diizinkan untuk pemilik foto profil dengan pembatasan:
+      // 1. Ukuran file maksimal 1 MB (1 * 1024 * 1024 bytes)
+      // 2. Format file wajib 'image/jpeg'
+      allow write: if isOwner(userId)
+                   && request.resource.size < 1 * 1024 * 1024
+                   && request.resource.contentType == 'image/jpeg';
+    }
+  }
+}
